@@ -23,5 +23,5 @@ The two primary technologies comprising Jeff are Non=Linear Dynamics & Psychic D
 At the end of the day Jeff is meant to support users through day to day journaling. If Jeff suspects a negative state is imminent, or could be imminent, it will warn the user against a given course of action & the reasons why it warned them. If Jeff suspects a positive state could be obtainable through a healthy means it will advise the user on the more positive trajectory.
 
 ## How does Jeff work under the hood?
-Great question, I have no idea. Jeff is a long term goal as I continue my education & meet the pre requisites to build Jeff. My current hope is that Jeff can be more easily implemented by biasing large language models, but there is still a large amount to do in terms of labeling & weighting nodes, as well as building out the front & back end barebones infrastructure. 
+Great question, I have no idea. Jeff is a long term goal as I continue my education & meet the pre requisites to build Jeff. My current hope is that Jeff can be more easily implemented by biasing large language models, but there is still a large amount to do in terms of labeling & weighting nodes, as well as building out the front & back end infrastructure. 
 

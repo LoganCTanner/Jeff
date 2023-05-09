@@ -17,7 +17,7 @@ The two primary technologies comprising Jeff are Non=Linear Dynamics & Psychic D
 - Psychic Driving is the process of using verbal, physical, and cognitive actions to change behavior
 - Logical process of Psychic Driving implemented through biases 
 - Biases obtained through global & user standards
-- Global standards utilizes prior defined positive states 
+- Global standards obtained through anonymized user data & a currated list
 
 ## Bringing it together
 At the end of the day Jeff is meant to support users through day to day journaling. If Jeff suspects a negative state is imminent, or could be imminent, it will warn the user against a given course of action & the reasons why it warned them. If Jeff suspects a positive state could be obtainable through a healthy means it will advise the user on the more positive trajectory.
